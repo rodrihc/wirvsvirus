@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: fish.payara.extras:payara-embedded-all:4.1.2.172">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fish/payara/extras/payara-embedded-all/4.1.2.172/payara-embedded-all-4.1.2.172.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/fish/payara/extras/payara-embedded-all/4.1.2.172/payara-embedded-all-4.1.2.172-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/fish/payara/extras/payara-embedded-all/4.1.2.172/payara-embedded-all-4.1.2.172-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
